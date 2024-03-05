@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://webmail.metu.edu.tr/',
+			link: 'https://mail.google.com/mail/u/0/',
 		},
 		{
 			id: '3',
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Udemy',
+					link: 'https://www.udemy.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'WebMail',
+					link: 'https://webmail.metu.edu.tr/',
 				},
 				{
 					name: 'Slack',
