@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Alperen',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'DeviantArt',
+			icon: 'palette',
+			link: 'https://www.deviantart.com/',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'HoYoLAB',
+			icon: 'messages-square',
+			link: 'https://www.hoyolab.com/home',
 		},
 		{
 			id: '4',
