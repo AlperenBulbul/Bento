@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Discord',
+			icon: 'headset',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '5',
