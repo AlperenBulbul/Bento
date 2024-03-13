@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'HoYoLAB',
+			name: 'WhatsApp',
 			icon: 'messages-square',
-			link: 'https://www.hoyolab.com/home',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
